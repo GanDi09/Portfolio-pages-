@@ -2,4 +2,4 @@
 <br>Студент 3 курса университета им Витте
 <br>Студент нетологии
 
-C:\Users\MSI\AppData\Local\Temp\1E24.tmp.png
+<img src= "532E.tmp.png">
