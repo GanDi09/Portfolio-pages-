@@ -2,4 +2,4 @@
 <br>Студент 3 курса университета им Витте
 <br>Студент нетологии
 
-<img src= "532E.tmp.png">
+<img src= "https://disk.yandex.ru/i/3tHtgby-QdD4hQ">
